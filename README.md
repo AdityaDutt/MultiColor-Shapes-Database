@@ -1,6 +1,6 @@
 # MultiColor-Shapes-Database <img align="center" alt="wallpaper" width = "75%" height= "75%" src="./shapes.png?raw=True" />
   
-## A small database for beginners to test and get understanding of different machine learning tasks like :
+### A small database for beginners to test and get understanding of different machine learning tasks like :
 
 - Classification
 - Image reconstruction using autoencoders
