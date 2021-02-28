@@ -1,5 +1,7 @@
 # MultiColor-Shapes-Database
 
+[](shapes.png)
+
 A small database to test different machine learning tasks like classification, image reconstruction using autoencoders, and genrating embedding/ features for a particular class.  
 
 ## Description
