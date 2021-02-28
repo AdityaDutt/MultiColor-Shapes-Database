@@ -1,7 +1,7 @@
 # MultiColor-Shapes-Database
 
 <img align="left" alt="wallpaper" width = "500px" src="./shapes.png?raw=True" />
-<br/>
+<br />
   
 A small database to test different machine learning tasks like classification, image reconstruction using autoencoders, and genrating embedding/ features for a particular class.  
 
