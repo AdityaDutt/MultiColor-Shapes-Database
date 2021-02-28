@@ -1,6 +1,6 @@
 # MultiColor-Shapes-Database
 
-<img align="left" alt="wallpaper" width = "60%" height= "60%" src="./shapes.png?raw=True" />
+<img align="center" alt="wallpaper" width = "60%" height= "60%" src="./shapes.png?raw=True" />
   
 <br>
 <br>
