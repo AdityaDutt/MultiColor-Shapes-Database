@@ -1,5 +1,7 @@
 # MultiColor-Shapes-Database <img align="left" alt="wallpaper" height= "600px" src="./statesimages.png?raw=True" />
-<br>  
+<br/>
+
+
 ### A small database for beginners to test and get understanding of different machine learning tasks like :
 
 - Classification
