@@ -1,4 +1,4 @@
-# MultiColor-Shapes-Database <img align="right" alt="wallpaper" height= "600px" src="./statesimages.png?raw=True" />
+# MultiColor-Shapes-Database <img align="center" alt="wallpaper" height= "600px" src="./statesimages.png?raw=True" />
 <br/>
 
 
