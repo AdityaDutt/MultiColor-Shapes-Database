@@ -1,4 +1,4 @@
-# MultiColor-Shapes-Database <img align="center" alt="wallpaper" width = "75%" height= "75%" src="./statesimages.png?raw=True" />
+# MultiColor-Shapes-Database <img align="center" alt="wallpaper" width = "100%" height= "50%" src="./statesimages.png?raw=True" />
   
 ### A small database for beginners to test and get understanding of different machine learning tasks like :
 
