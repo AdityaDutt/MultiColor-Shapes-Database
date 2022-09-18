@@ -4,7 +4,7 @@
 
 - Classification
 - Image reconstruction using autoencoders
-- Genrating embedding/ features for a particular feature like color and shape
+- Generating embedding/ features for a particular feature like color and shape
 
 ## Description
 
